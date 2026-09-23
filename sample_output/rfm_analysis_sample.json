@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ahmad Fauzi",
+    "email": "ahmad.fauzi@email.com",
+    "recency_days": 5,
+    "frequency": 28,
+    "monetary": 45200.00,
+    "r_score": 5,
+    "f_score": 5,
+    "m_score": 5,
+    "rfm_score": 15,
+    "segment": "Champions"
+  },
+  {
+    "name": "Siti Nurhaliza",
+    "email": "siti.n@email.com",
+    "recency_days": 12,
+    "frequency": 22,
+    "monetary": 38750.50,
+    "r_score": 5,
+    "f_score": 5,
+    "m_score": 5,
+    "rfm_score": 15,
+    "segment": "Champions"
+  },
+  {
+    "name": "Budi Santoso",
+    "email": "budi.s@email.com",
+    "recency_days": 45,
+    "frequency": 15,
+    "monetary": 22100.00,
+    "r_score": 4,
+    "f_score": 4,
+    "m_score": 4,
+    "rfm_score": 12,
+    "segment": "Champions"
+  },
+  {
+    "name": "Dewi Lestari",
+    "email": "dewi.l@email.com",
+    "recency_days": 60,
+    "frequency": 11,
+    "monetary": 18500.75,
+    "r_score": 4,
+    "f_score": 4,
+    "m_score": 3,
+    "rfm_score": 11,
+    "segment": "Loyal"
+  },
+  {
+    "name": "Rudi Hartono",
+    "email": "rudi.h@email.com",
+    "recency_days": 120,
+    "frequency": 6,
+    "monetary": 9800.00,
+    "r_score": 3,
+    "f_score": 3,
+    "m_score": 2,
+    "rfm_score": 8,
+    "segment": "At Risk"
+  },
+  {
+    "name": "Maya Putri",
+    "email": "maya.p@email.com",
+    "recency_days": 400,
+    "frequency": 2,
+    "monetary": 1250.00,
+    "r_score": 1,
+    "f_score": 1,
+    "m_score": 1,
+    "rfm_score": 3,
+    "segment": "Lost"
+  }
+]

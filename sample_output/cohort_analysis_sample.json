@@ -1,0 +1,42 @@
+[
+  {
+    "cohort_month": "2024-01",
+    "new_customers": 342,
+    "cohort_first_month_revenue": 89450.00,
+    "running_total_customers": 342,
+    "retained_next_month": 87,
+    "retention_rate_pct": 25.44
+  },
+  {
+    "cohort_month": "2024-02",
+    "new_customers": 298,
+    "cohort_first_month_revenue": 76230.50,
+    "running_total_customers": 640,
+    "retained_next_month": 71,
+    "retention_rate_pct": 23.83
+  },
+  {
+    "cohort_month": "2024-03",
+    "new_customers": 415,
+    "cohort_first_month_revenue": 112780.25,
+    "running_total_customers": 1055,
+    "retained_next_month": 108,
+    "retention_rate_pct": 26.02
+  },
+  {
+    "cohort_month": "2024-04",
+    "new_customers": 367,
+    "cohort_first_month_revenue": 95600.75,
+    "running_total_customers": 1422,
+    "retained_next_month": 82,
+    "retention_rate_pct": 22.34
+  },
+  {
+    "cohort_month": "2024-05",
+    "new_customers": 389,
+    "cohort_first_month_revenue": 104320.00,
+    "running_total_customers": 1811,
+    "retained_next_month": 95,
+    "retention_rate_pct": 24.42
+  }
+]

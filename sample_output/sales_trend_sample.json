@@ -1,0 +1,52 @@
+[
+  {
+    "sale_date": "2024-09-01",
+    "day_of_week": "Sunday",
+    "total_orders": 120,
+    "total_revenue": 33500.00,
+    "revenue_7day_avg": 31200.50,
+    "orders_7day_avg": 115.43,
+    "pct_diff_from_avg": 7.37,
+    "anomaly_flag": "Normal"
+  },
+  {
+    "sale_date": "2024-09-02",
+    "day_of_week": "Monday",
+    "total_orders": 185,
+    "total_revenue": 52100.00,
+    "revenue_7day_avg": 33450.75,
+    "orders_7day_avg": 128.57,
+    "pct_diff_from_avg": 55.75,
+    "anomaly_flag": "ABOVE +30%"
+  },
+  {
+    "sale_date": "2024-09-03",
+    "day_of_week": "Tuesday",
+    "total_orders": 142,
+    "total_revenue": 38200.50,
+    "revenue_7day_avg": 34100.20,
+    "orders_7day_avg": 131.29,
+    "pct_diff_from_avg": 12.02,
+    "anomaly_flag": "Normal"
+  },
+  {
+    "sale_date": "2024-09-04",
+    "day_of_week": "Wednesday",
+    "total_orders": 0,
+    "total_revenue": 0,
+    "revenue_7day_avg": 30800.10,
+    "orders_7day_avg": 112.00,
+    "pct_diff_from_avg": -100.00,
+    "anomaly_flag": "BELOW -30%"
+  },
+  {
+    "sale_date": "2024-09-05",
+    "day_of_week": "Thursday",
+    "total_orders": 158,
+    "total_revenue": 41800.25,
+    "revenue_7day_avg": 33120.15,
+    "orders_7day_avg": 121.00,
+    "pct_diff_from_avg": 26.21,
+    "anomaly_flag": "Normal"
+  }
+]

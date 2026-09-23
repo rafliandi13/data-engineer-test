@@ -1,0 +1,14 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "user": "postgres",
+    "password": "your_password_here",
+    "dbname": "ecommerce",
+    "sslmode": "disable"
+  },
+  "api": {
+    "base_url": "https://api.bi-platform.com",
+    "bearer_token": "your_bearer_token_here"
+  }
+}
